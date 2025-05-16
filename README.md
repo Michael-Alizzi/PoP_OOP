@@ -1,7 +1,6 @@
 # PoP_OOP
 Introduction to Python and object oriented programming.
 ## Steps
-1. Create a new folder called PoP_OOP in your main Python directory
-2. File > Open Folder > Select the PoP_OOP folder
-3. In VSCode **ctrl**+**shift**+**p**
-4. Type **Git: Clone** > 
+1. Download VSCode here: https://code.visualstudio.com/download
+4. In VSCode **ctrl**+**shift**+**p**
+5. Type **Git: Clone** > Input in the search bar: https://github.com/Michael-Alizzi/PoP_OOP.git
