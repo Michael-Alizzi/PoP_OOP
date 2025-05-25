@@ -34,7 +34,7 @@ with open("text.txt", "r", encoding="utf-8") as text:
     dict_count = {}
 
     # loop through the set to count the number of times each word appears in
-    # the list
+    # the capitalised list
     for word in new_text_set:
         word_count = cap_text_list.count(word)
         dict_count[word] = word_count
